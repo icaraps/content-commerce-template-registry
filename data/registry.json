@@ -1,15 +1,44 @@
 {
   "data": [
     {
-      "name": "Sites Template",
-      "url": "https://github.com/icaraps/sites-template",
+      "name": "app-builder-sites-template",
+      "url": "https://github.com/icaraps/app-builder-sites-template",
       "version": "0.0.1",
-      "description": "App Builder - AEM Sites templates",
-      "date": "2022-02-16T05:19:41.202Z",
-      "links": [
-        "https://adobe.com"
-      ],
+      "description": "AEM Sites template",
+      "date": "2022-02-16T05:14:31.202Z",
       "author": "Stephan Ringel"
+    },
+    {
+      "name": "app-builder-commerce-template",
+      "url": "https://github.com/jimbo/app-builder-commerce-template",
+      "version": "0.2.0",
+      "description": "App Builder - Adobe Commerce template",
+      "date": "2022-02-12T05:19:41.100Z",
+      "author": "James Sanford"
+    },
+    {
+      "name": "app-builder-cif-template",
+      "url": "https://github.com/herzog31/app-builder-cif-template",
+      "version": "0.4.3",
+      "description": "App Builder - AEM CIF template",
+      "date": "2022-01-04T05:13:51.112Z",
+      "author": "Mark J. Becker"
+    },
+    {
+      "name": "app-builder-forms-template",
+      "url": "https://github.com/adobe/app-builder-forms-template",
+      "version": "1.0.0",
+      "description": "App Builder - AEM Forms template",
+      "date": "2022-03-14T04:33:56.142Z",
+      "author": "Varun Dua"
+    },
+    {
+      "name": "App Builder AEM Screens Template",
+      "url": "https://github.com/adobe/app-builder-screens-template",
+      "version": "2.3.3",
+      "description": "App Builder - AEM Screens template",
+      "date": "2022-02-20T08:22:36.132Z",
+      "author": "Tobias Reiss"
     }
   ]
 }
