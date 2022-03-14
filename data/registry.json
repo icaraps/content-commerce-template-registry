@@ -1,22 +1,15 @@
 {
   "data": [
     {
-      "name": "My Awesome Template",
-      "scope": "shazron",
-      "url": "https://github.com/shazron/my-awesome-template",
-      "version": "0.1.1",
-      "description": "a template that does nothing currently",
-      "keywords": [
-        "template",
-        "awesome"
-      ],
+      "name": "Sites Template",
+      "url": "https://github.com/icaraps/sites-template",
+      "version": "0.0.1",
+      "description": "App Builder - AEM Sites templates",
       "date": "2022-02-16T05:19:41.202Z",
       "links": [
         "https://adobe.com"
       ],
-      "author": "Shazron Abdullah"
+      "author": "Stephan Ringel"
     }
-  ],
-  "links": {
-  }
+  ]
 }
